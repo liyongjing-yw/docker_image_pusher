@@ -1,1 +1,1 @@
-apache/skywalking-ui:6.6.0
+apache/skywalking-java-agent:8.7.0-alpine
