@@ -1,1 +1,1 @@
-busybox:latest
+nacos/nacos-server:2.0.3
