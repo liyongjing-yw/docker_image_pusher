@@ -1,1 +1,1 @@
-selenium/standalone-chrome
+centos:7
