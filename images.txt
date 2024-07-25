@@ -1,1 +1,1 @@
-zenika/alpine-chrome:latest
+java:8
