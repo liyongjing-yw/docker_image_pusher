@@ -1,1 +1,1 @@
-jenkins/jenkins:2.426.2
+google/cadvisor
