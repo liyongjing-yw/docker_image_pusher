@@ -1,1 +1,1 @@
-https://cdn.openbsd.org/pub/OpenBSD/OpenSSH/portable/openssh-9.9p2.tar.gz
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.10.0
